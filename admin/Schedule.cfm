@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script src="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
-	<script src="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
-	<link  href="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/jquery-ui.min.css"  rel="stylesheet"/>
+
+	<script src="../jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+	<script src="../jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<link  href="../jquery-ui-1.12.1.custom/jquery-ui.min.css"  rel="stylesheet"/>
+
 	
 <link rel=StyleSheet href="../CalStyle.css" type="text/css" />
 <title>Therapy Schedules Administration-Staff</title>

@@ -6,9 +6,11 @@
 <title>Therapy Schedules Administration-Staff</title>
 <link rel=StyleSheet href="../CalStyle.css" type="text/css" />
 
-	<script src="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
-	<script src="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
-	<link  href="https://ccp1.msj.org/scripts/jquery/jquery-ui-1.12.1.custom/jquery-ui.min.css"  rel="stylesheet"/>
+
+	<script src="../jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+	<script src="../jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<link  href="../jquery-ui-1.12.1.custom/jquery-ui.min.css"  rel="stylesheet"/>
+
 
 <cfquery name="ckadmin" datasource="intranet-cal">
 	SELECT * FROM TherapyAdmins
